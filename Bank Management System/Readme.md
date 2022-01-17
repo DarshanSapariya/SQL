@@ -1,7 +1,7 @@
 # Bank Managment System
 [![N|Solid](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  [![N|Solid](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
-## _This is simple Bank data management system made by [me](https://github.com/DarshanSapariya) using Python and SQL_
+## _This is simple Bank data management system made by [me](https://github.com/DarshanSapariya) using Python and SQL to learn Python-SQL integration little better and build an interesting project which has working basic functionality_
 
 ## Required libraries and other things
 - [mysql-python-connector](https://dev.mysql.com/doc/dev/connector-python/8.0/installation.html) - MySQL connector library for python
@@ -29,7 +29,14 @@ This is data managemnet system providing basic functions as follows
  5. Delete Account
  6. Quit
 
-
+## Important Things I wish to inform
+- This is basic (Not very basic though, but still basic 😁) project. It does not have very much advanced features like 
+  - Proper transaction managment
+  - Account number and Phone number rules
+  - GUI
+  - And some other things
+  - 
+## So, Run the code in your system. Learn things. Modify as per your liking and Enjoy ✨!!
 
 
 ## Other Documentation for reference
