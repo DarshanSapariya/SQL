@@ -3,6 +3,15 @@
 
 ## _This is simple Bank data management system made by [me](https://github.com/DarshanSapariya) using Python and SQL_
 
+## Required libraries and other things
+- [mysql-python-connector](https://dev.mysql.com/doc/dev/connector-python/8.0/installation.html) - MySQL connector library for python
+- [MySQL] Installed and Configured 
+
+## How to Run :
+- Clone the source code folder into your system
+- Run the launch.py file 
+- Enter the valid credentials of MySQL and you are good to go 👌
+
 This is data managemnet system providing basic functions as follows
 
 - Register 
@@ -20,8 +29,7 @@ This is data managemnet system providing basic functions as follows
  5. Delete Account
  6. Quit
 
-## Required libraries that must be installed
-- [mysql-python-connector](https://dev.mysql.com/doc/dev/connector-python/8.0/installation.html) - MySQL connector library for python
+
 
 
 ## Other Documentation for reference
